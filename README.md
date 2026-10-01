@@ -61,7 +61,7 @@ Below is a curated comparison of leading commercial Digital Experience Monitorin
 
 ## ⚡ Open-Source GitHub Projects
 
-The open-source ecosystem offers powerful modular building blocks for RUM, synthetic probes, session replay, and endpoint DEX instrumentation. Below are top open-source projects, **sorted by GitHub Stars_Count (descending)**.
+The open-source ecosystem offers powerful modular building blocks for RUM, synthetic probes, session replay, and endpoint DEX instrumentation. Below are top open-source projects, **sorted by GitHub_Stars_Count (descending)**.
 
 1. 🐻 **[louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)** [![GitHub_Stars](https://img.shields.github.io/github/stars/louislam/uptime-kuma?style=social&color=white)](https://github.com/louislam/uptime-kuma/stargazers)  
    Self-hosted synthetic uptime & status monitoring tool supporting HTTP/S, TCP, Ping, DNS, and multi-channel incident notifications.
@@ -160,7 +160,7 @@ Contributions are highly welcome! To add a new SaaS platform or Open-Source DEM 
 1. **Fork** the repository.
 2. Add your entry under the appropriate section following the existing formatting guidelines:
    - For **SaaS**: Include accurate starting price, free trial/tier limits, description, and company size/valuation.
-   - For **Open-Source**: Include repository link, GitHub Stars_Badge (`style=social&color=white`) linking to the stargazers page, and description.
+   - For **Open-Source**: Include repository link, GitHub_Stars_Badge (`style=social&color=white`) linking to the stargazers page, and description.
 3. Submit a **Pull Request** with a brief summary of the added tool.
 
 ---
