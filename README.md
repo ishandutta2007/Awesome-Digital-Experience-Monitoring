@@ -61,54 +61,54 @@ Below is a curated comparison of leading commercial Digital Experience Monitorin
 
 ## ⚡ Open-Source GitHub Projects
 
-The open-source ecosystem offers powerful modular building blocks for RUM, synthetic probes, session replay, and endpoint DEX instrumentation. Below are top open-source projects, **sorted by GitHub star count (descending)**.
+The open-source ecosystem offers powerful modular building blocks for RUM, synthetic probes, session replay, and endpoint DEX instrumentation. Below are top open-source projects, **sorted by GitHub Stars_Count (descending)**.
 
-1. 🐻 **[louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)** [![GitHub stars](https://img.shields.github.io/github/stars/louislam/uptime-kuma?style=social&color=white)](https://github.com/louislam/uptime-kuma/stargazers)  
+1. 🐻 **[louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)** [![GitHub_Stars](https://img.shields.github.io/github/stars/louislam/uptime-kuma?style=social&color=white)](https://github.com/louislam/uptime-kuma/stargazers)  
    Self-hosted synthetic uptime & status monitoring tool supporting HTTP/S, TCP, Ping, DNS, and multi-channel incident notifications.
 
-2. 📈 **[netdata/netdata](https://github.com/netdata/netdata)** [![GitHub stars](https://img.shields.github.io/github/stars/netdata/netdata?style=social&color=white)](https://github.com/netdata/netdata/stargazers)  
+2. 📈 **[netdata/netdata](https://github.com/netdata/netdata)** [![GitHub_Stars](https://img.shields.github.io/github/stars/netdata/netdata?style=social&color=white)](https://github.com/netdata/netdata/stargazers)  
    Real-time endpoint and infrastructure performance monitoring tool providing per-second metrics for hardware and operating systems.
 
-3. 🦔 **[posthog/posthog](https://github.com/posthog/posthog)** [![GitHub stars](https://img.shields.github.io/github/stars/posthog/posthog?style=social&color=white)](https://github.com/posthog/posthog/stargazers)  
+3. 🦔 **[posthog/posthog](https://github.com/posthog/posthog)** [![GitHub_Stars](https://img.shields.github.io/github/stars/posthog/posthog?style=social&color=white)](https://github.com/posthog/posthog/stargazers)  
    Open-source product analytics suite with session replay, DOM recording, Web Vitals RUM, and feature flagging.
 
-4. 📊 **[signoz/signoz](https://github.com/signoz/signoz)** [![GitHub stars](https://img.shields.github.io/github/stars/signoz/signoz?style=social&color=white)](https://github.com/signoz/signoz/stargazers)  
+4. 📊 **[signoz/signoz](https://github.com/signoz/signoz)** [![GitHub_Stars](https://img.shields.github.io/github/stars/signoz/signoz?style=social&color=white)](https://github.com/signoz/signoz/stargazers)  
    OpenTelemetry-native APM and observability platform offering built-in browser RUM tracing, log management, and metrics.
 
-5. 🚀 **[grafana/k6](https://github.com/grafana/k6)** [![GitHub stars](https://img.shields.github.io/github/stars/grafana/k6?style=social&color=white)](https://github.com/grafana/k6/stargazers)  
+5. 🚀 **[grafana/k6](https://github.com/grafana/k6)** [![GitHub_Stars](https://img.shields.github.io/github/stars/grafana/k6?style=social&color=white)](https://github.com/grafana/k6/stargazers)  
    Developer-centric, scriptable synthetic monitoring, browser automation, and load testing tool built in Go & JavaScript.
 
-6. 🛡️ **[osquery/osquery](https://github.com/osquery/osquery)** [![GitHub stars](https://img.shields.github.io/github/stars/osquery/osquery?style=social&color=white)](https://github.com/osquery/osquery/stargazers)  
+6. 🛡️ **[osquery/osquery](https://github.com/osquery/osquery)** [![GitHub_Stars](https://img.shields.github.io/github/stars/osquery/osquery?style=social&color=white)](https://github.com/osquery/osquery/stargazers)  
    SQL-based operating system instrumentation framework for gathering custom Digital Employee Experience (DEX) endpoint metrics.
 
-7. 📼 **[openreplay/openreplay](https://github.com/openreplay/openreplay)** [![GitHub stars](https://img.shields.github.io/github/stars/openreplay/openreplay?style=social&color=white)](https://github.com/openreplay/openreplay/stargazers)  
+7. 📼 **[openreplay/openreplay](https://github.com/openreplay/openreplay)** [![GitHub_Stars](https://img.shields.github.io/github/stars/openreplay/openreplay?style=social&color=white)](https://github.com/openreplay/openreplay/stargazers)  
    Self-hosted session replay, network payload inspection, and front-end performance debugging suite for web applications.
 
-8. ⚡ **[hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx)** [![GitHub stars](https://img.shields.github.io/github/stars/hyperdxio/hyperdx?style=social&color=white)](https://github.com/hyperdxio/hyperdx/stargazers)  
+8. ⚡ **[hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx)** [![GitHub_Stars](https://img.shields.github.io/github/stars/hyperdxio/hyperdx?style=social&color=white)](https://github.com/hyperdxio/hyperdx/stargazers)  
    Open-source observability platform linking frontend browser RUM sessions with backend microservice traces and logs.
 
-9. 💡 **[highlight/highlight](https://github.com/highlight/highlight)** [![GitHub stars](https://img.shields.github.io/github/stars/highlight/highlight?style=social&color=white)](https://github.com/highlight/highlight/stargazers)  
+9. 💡 **[highlight/highlight](https://github.com/highlight/highlight)** [![GitHub_Stars](https://img.shields.github.io/github/stars/highlight/highlight?style=social&color=white)](https://github.com/highlight/highlight/stargazers)  
    Full-stack web application monitoring platform providing session replay, client error tracking, and web vitals monitoring.
 
-10. 📦 **[prometheus/blackbox_exporter](https://github.com/prometheus/blackbox_exporter)** [![GitHub stars](https://img.shields.github.io/github/stars/prometheus/blackbox_exporter?style=social&color=white)](https://github.com/prometheus/blackbox_exporter/stargazers)  
+10. 📦 **[prometheus/blackbox_exporter](https://github.com/prometheus/blackbox_exporter)** [![GitHub_Stars](https://img.shields.github.io/github/stars/prometheus/blackbox_exporter?style=social&color=white)](https://github.com/prometheus/blackbox_exporter/stargazers)  
     Prometheus blackbox probing exporter for synthetic checks over HTTP, HTTPS, DNS, TCP, and ICMP endpoints.
 
-11. 🐿️ **[uptrace/uptrace](https://github.com/uptrace/uptrace)** [![GitHub stars](https://img.shields.github.io/github/stars/uptrace/uptrace?style=social&color=white)](https://github.com/uptrace/uptrace/stargazers)  
+11. 🐿️ **[uptrace/uptrace](https://github.com/uptrace/uptrace)** [![GitHub_Stars](https://img.shields.github.io/github/stars/uptrace/uptrace?style=social&color=white)](https://github.com/uptrace/uptrace/stargazers)  
     OpenTelemetry APM and RUM tracing system powered by ClickHouse for high-throughput distributed tracing.
 
-12. 🌐 **[open-telemetry/opentelemetry-js](https://github.com/open-telemetry/opentelemetry-js)** [![GitHub stars](https://img.shields.github.io/github/stars/open-telemetry/opentelemetry-js?style=social&color=white)](https://github.com/open-telemetry/opentelemetry-js/stargazers)  
+12. 🌐 **[open-telemetry/opentelemetry-js](https://github.com/open-telemetry/opentelemetry-js)** [![GitHub_Stars](https://img.shields.github.io/github/stars/open-telemetry/opentelemetry-js?style=social&color=white)](https://github.com/open-telemetry/opentelemetry-js/stargazers)  
     Vendor-neutral OpenTelemetry JavaScript SDK for browser and Node.js client-side RUM performance instrumentation.
 
-13. 🤖 **[Checkmk/checkmk](https://github.com/Checkmk/checkmk)** [![GitHub stars](https://img.shields.github.io/github/stars/Checkmk/checkmk?style=social&color=white)](https://github.com/Checkmk/checkmk/stargazers)  
+13. 🤖 **[Checkmk/checkmk](https://github.com/Checkmk/checkmk)** [![GitHub_Stars](https://img.shields.github.io/github/stars/Checkmk/checkmk?style=social&color=white)](https://github.com/Checkmk/checkmk/stargazers)  
     Comprehensive IT infrastructure and application monitoring platform extensible with synthetic user experience plugins.
 
-14. 🔥 **[grafana/faro-web-sdk](https://github.com/grafana/faro-web-sdk)** [![GitHub stars](https://img.shields.github.io/github/stars/grafana/faro-web-sdk?style=social&color=white)](https://github.com/grafana/faro-web-sdk/stargazers)  
+14. 🔥 **[grafana/faro-web-sdk](https://github.com/grafana/faro-web-sdk)** [![GitHub_Stars](https://img.shields.github.io/github/stars/grafana/faro-web-sdk?style=social&color=white)](https://github.com/grafana/faro-web-sdk/stargazers)  
     Open-source Web SDK for Real User Monitoring—capturing frontend logs, errors, traces, and Web Vitals into Grafana.
 
-15. 🔎 **[elastic/apm-agent-rum-js](https://github.com/elastic/apm-agent-rum-js)** [![GitHub stars](https://img.shields.github.io/github/stars/elastic/apm-agent-rum-js?style=social&color=white)](https://github.com/elastic/apm-agent-rum-js/stargazers)  
+15. 🔎 **[elastic/apm-agent-rum-js](https://github.com/elastic/apm-agent-rum-js)** [![GitHub_Stars](https://img.shields.github.io/github/stars/elastic/apm-agent-rum-js?style=social&color=white)](https://github.com/elastic/apm-agent-rum-js/stargazers)  
     Official Elastic RUM JavaScript Agent for real user browser monitoring integrated with Elastic APM and Kibana.
 
-16. ⚙️ **[grafana/synthetic-monitoring-agent](https://github.com/grafana/synthetic-monitoring-agent)** [![GitHub stars](https://img.shields.github.io/github/stars/grafana/synthetic-monitoring-agent?style=social&color=white)](https://github.com/grafana/synthetic-monitoring-agent/stargazers)  
+16. ⚙️ **[grafana/synthetic-monitoring-agent](https://github.com/grafana/synthetic-monitoring-agent)** [![GitHub_Stars](https://img.shields.github.io/github/stars/grafana/synthetic-monitoring-agent?style=social&color=white)](https://github.com/grafana/synthetic-monitoring-agent/stargazers)  
     Synthetic monitoring agent used by Grafana Cloud and self-hosted Grafana installations for continuous probe execution.
 
 ---
@@ -160,12 +160,12 @@ Contributions are highly welcome! To add a new SaaS platform or Open-Source DEM 
 1. **Fork** the repository.
 2. Add your entry under the appropriate section following the existing formatting guidelines:
    - For **SaaS**: Include accurate starting price, free trial/tier limits, description, and company size/valuation.
-   - For **Open-Source**: Include repository link, GitHub star badge (`style=social&color=white`) linking to the stargazers page, and description.
+   - For **Open-Source**: Include repository link, GitHub Stars_Badge (`style=social&color=white`) linking to the stargazers page, and description.
 3. Submit a **Pull Request** with a brief summary of the added tool.
 
 ---
 
 ## 📜 Disclaimer & License
 
-- **Disclaimer**: This is a community-curated collection intended for educational and evaluation purposes. Financial estimates, star counts, and pricing tiers reflect published market data as of **October 2026** and are subject to vendor updates.
+- **Disclaimer**: This is a community-curated collection intended for educational and evaluation purposes. Financial estimates, Stars_Counts, and pricing tiers reflect published market data as of **October 2026** and are subject to vendor updates.
 - **License**: Released under the [Creative Commons Zero v1.0 Universal (CC0 1.0)](LICENSE) Public Domain Dedication.
